@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SmartLedger AI - 智能记账助手",
+  "description": "基于 Gemini AI 的智能记账工具。只需上传微信、支付宝或电商订单截图，AI 自动识别金额、商户、分类并生成周报，解决手动记账繁琐、遗忘消费细节的痛点。",
+  "requestFramePermissions": []
+}
